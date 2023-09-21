@@ -1,4 +1,3 @@
-Gig Scheduler
 Gig Scheduler is made up of two parts. Below is some general background information that applies to both parts.
 
 Database Requirements
